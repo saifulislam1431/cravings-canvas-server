@@ -1,50 +1,58 @@
 [
+
     {
         "id": 1,
         "chefPicture": "https://example.com/chef1.jpg",
         "chefName": "Sanjeev Kapoor",
         "yearsOfExperience": 20,
         "numberOfRecipes": 500,
-        "likes": 100000
-    },
-    {
+        "likes": 100000,
+        "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is widely known for his television series Khana Khazana, which aired over 500 episodes and became the longest-running show of its kind in Asia. Kapoor has written over 150 cookbooks and is the recipient of several awards for his contributions to the Indian culinary world."
+      },
+      {
         "id": 2,
         "chefPicture": "https://example.com/chef2.jpg",
         "chefName": "Tarla Dalal",
         "yearsOfExperience": 30,
         "numberOfRecipes": 1000,
-        "likes": 150000
-    },
-    {
+        "likes": 150000,
+        "bio": "Tarla Dalal was an Indian cookbook author, chef, and television personality. She authored over 100 cookbooks in her lifetime and sold over 10 million copies worldwide. Dalal was known for her simple and easy-to-follow recipes, which made her a popular figure in the Indian culinary world."
+      },
+      {
         "id": 3,
         "chefPicture": "https://example.com/chef3.jpg",
         "chefName": "Vikas Khanna",
         "yearsOfExperience": 15,
         "numberOfRecipes": 200,
-        "likes": 50000
-    },
-    {
+        "likes": 50000,
+        "bio": "Vikas Khanna is an Indian Michelin-starred chef, restaurateur, cookbook writer, and filmmaker. He is the owner of the restaurant chain Junoon, which has locations in New York City and Dubai. Khanna has also been a judge on several television cooking shows, including MasterChef India and Top Chef."
+      },
+      {
         "id": 4,
         "chefPicture": "https://example.com/chef4.jpg",
         "chefName": "Madhur Jaffrey",
         "yearsOfExperience": 40,
         "numberOfRecipes": 800,
-        "likes": 200000
-    },
-    {
+        "likes": 200000,
+        "bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She has authored several cookbooks, including Madhur Jaffrey's Indian Cooking and Madhur Jaffrey's World Vegetarian. Jaffrey is known for her expertise in Indian cuisine and has been honored with several awards for her contributions to the culinary world."
+      },
+      {
         "id": 5,
         "chefPicture": "https://example.com/chef5.jpg",
         "chefName": "Atul Kochhar",
         "yearsOfExperience": 25,
         "numberOfRecipes": 300,
-        "likes": 75000
-    },
-    {
+        "likes": 75000,
+        "bio": "Atul Kochhar is an Indian-born Michelin-starred chef based in the United Kingdom. He is the owner of the restaurant Benares, which has locations in London and New York City. Kochhar is known for his modern take on Indian cuisine and has been recognized with several awards for his culinary achievements."
+      },
+      {
         "id": 6,
         "chefPicture": "https://example.com/chef6.jpg",
         "chefName": "Ranveer Brar",
         "yearsOfExperience": 10,
         "numberOfRecipes": 150,
-        "likes": 30000
-    }
+        "likes": 30000,
+        "bio": "Ranveer Brar is an Indian celebrity chef, television personality, and author. He has hosted several cooking shows on Indian television, including Breakfast Xpress, Snack Attack, and The Great Indian Rasoi. Brar has also written several cookbooks and owns a restaurant chain called the 'English Vinglish Souk'. He is known for his modern take on Indian cuisine and has received several awards for his contributions to the culinary world."
+      }
+      
 ]
