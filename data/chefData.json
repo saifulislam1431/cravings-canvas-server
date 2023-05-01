@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "chefPicture": "https://example.com/chef1.jpg",
+        "chefName": "Sanjeev Kapoor",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 500,
+        "likes": 100000
+    },
+    {
+        "id": 2,
+        "chefPicture": "https://example.com/chef2.jpg",
+        "chefName": "Tarla Dalal",
+        "yearsOfExperience": 30,
+        "numberOfRecipes": 1000,
+        "likes": 150000
+    },
+    {
+        "id": 3,
+        "chefPicture": "https://example.com/chef3.jpg",
+        "chefName": "Vikas Khanna",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 200,
+        "likes": 50000
+    },
+    {
+        "id": 4,
+        "chefPicture": "https://example.com/chef4.jpg",
+        "chefName": "Madhur Jaffrey",
+        "yearsOfExperience": 40,
+        "numberOfRecipes": 800,
+        "likes": 200000
+    },
+    {
+        "id": 5,
+        "chefPicture": "https://example.com/chef5.jpg",
+        "chefName": "Atul Kochhar",
+        "yearsOfExperience": 25,
+        "numberOfRecipes": 300,
+        "likes": 75000
+    },
+    {
+        "id": 6,
+        "chefPicture": "https://example.com/chef6.jpg",
+        "chefName": "Ranveer Brar",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 150,
+        "likes": 30000
+    }
+]
