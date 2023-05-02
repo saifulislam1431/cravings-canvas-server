@@ -2,7 +2,7 @@
     {
         "id": 1,
         "chefId": 1,
-        "recipeImg": "https://example.com/recipe1.jpg",
+        "recipeImg": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8QnV0dGVyJTIwQ2hpY2tlbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
         "recipeName": "Butter Chicken",
         "ingredients": ["500g chicken", "2 tbsp butter", "1 onion, chopped", "1 tsp ginger paste", "1 tsp garlic paste", "1 cup tomato puree", "1 cup cream", "2 tsp red chilli powder", "1 tsp garam masala", "salt to taste"],
         "cookingMethod": "1. Heat the butter in a pan and sauté the onions until golden brown. 2. Add ginger and garlic paste and cook for 1 minute. 3. Add tomato puree, red chilli powder, garam masala, and salt. Cook for 2-3 minutes. 4. Add the chicken pieces and cook until they are browned on all sides. 5. Add water and let it cook on low heat for 20-25 minutes. 6. Add cream and cook for another 5 minutes. 7. Serve hot with naan or rice.",
@@ -11,7 +11,7 @@
       {
         "id": 2,
         "chefId": 1,
-        "recipeImg": "https://example.com/recipe2.jpg",
+        "recipeImg": "https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8UGFsYWslMjBQYW5lZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
         "recipeName": "Palak Paneer",
         "ingredients": ["200g paneer", "1 bunch spinach", "1 onion, chopped", "1 tsp ginger paste", "1 tsp garlic paste", "1 tomato, chopped", "1 tsp cumin seeds", "1 tsp coriander powder", "1 tsp garam masala", "salt to taste"],
         "cookingMethod": "1. Blanch the spinach and make a puree. 2. Heat oil in a pan and add cumin seeds. 3. Add onions and sauté until they turn golden brown. 4. Add ginger and garlic paste and cook for 1 minute. 5. Add tomatoes and cook until they are soft. 6. Add coriander powder, garam masala, and salt. Cook for 2-3 minutes. 7. Add paneer and spinach puree. Cook for 5-7 minutes. 8. Serve hot with naan or rice.",
@@ -20,7 +20,7 @@
       {
         "id": 3,
         "chefId": 1,
-        "recipeImg": "https://example.com/recipe3.jpg",
+        "recipeImg": "https://en-media.thebetterindia.com/uploads/2022/08/294156779_1082267416022212_8006411537588067133_n-1_11zon-1660981126.jpg",
         "recipeName": "Chole Bhature",
         "ingredients": ["2 cups chickpeas", "1 onion, chopped", "1 tomato, chopped", "1 tsp ginger paste", "1 tsp garlic paste", "1 tsp cumin seeds", "1 tsp coriander powder", "1 tsp garam masala", "salt to taste"],
         "cookingMethod": "1. Soak the chickpeas overnight and pressure cook until they are soft. 2. Heat oil in a pan and add cumin seeds. 3. Add onions and sauté until they turn golden brown. 4. Add ginger and garlic paste and cook for 1 minute. 5. Add tomatoes and cook until they are soft. 6. Add coriander powder, garam masala, and salt. Cook for 2-3 minutes. 7. Add chickpeas and cook for 10-12 minutes. 8. Serve hot with bhature.",
@@ -29,7 +29,7 @@
       {
         "id": 4,
         "chefId": 1,
-        "recipeImg": "https://example.com/recipe4.jpg",
+        "recipeImg": "https://static.toiimg.com/thumb/53192600.cms?imgsize=418831&width=800&height=800",
         "recipeName": "Rogan Josh",
         "ingredients": ["500g lamb", "1 onion, chopped", "1 tomato, chopped", "1 tsp ginger paste", "1 tsp garlic paste", "2 tsp red chilli powder", "1 tsp turmeric powder", "1 tsp cumin powder", "1 tsp coriander powder", "1 tsp garam masala", "salt to taste"],
         "cookingMethod": "1. Heat oil in a pan and sauté the onions until golden brown. 2. Add ginger and garlic paste and cook for 1 minute. 3. Add tomato, red chilli powder, turmeric powder, cumin powder, coriander powder, and salt. Cook for 2-3 minutes. 4. Add lamb and cook until browned on all sides. 5. Add water and let it cook on low heat for 30-40 minutes. 6. Add garam masala and cook for another 5 minutes. 7. Serve hot with rice or naan.",
@@ -38,7 +38,7 @@
       {
         "id": 5,
         "chefId": 1,
-        "recipeImg": "https://example.com/recipe5.jpg",
+        "recipeImg": "https://images.unsplash.com/photo-1630851840633-f96999247032?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
         "recipeName": "Chicken Biryani",
         "ingredients": ["500g chicken", "2 cups basmati rice", "1 onion, sliced", "1 tomato, chopped", "1 tsp ginger paste", "1 tsp garlic paste", "1 tsp red chilli powder", "1 tsp turmeric powder", "1 tsp cumin powder", "1 tsp coriander powder", "2-3 bay leaves", "4-5 cloves", "4-5 green cardamom pods", "2-3 cinnamon sticks", "salt to taste"],
         "cookingMethod": "1. Soak the rice for 30 minutes and drain. 2. Heat oil in a pan and add bay leaves, cloves, cardamom, and cinnamon. Sauté for 1 minute. 3. Add onions and sauté until golden brown. 4. Add ginger and garlic paste and cook for 1 minute. 5. Add tomatoes and cook until they are soft. 6. Add red chilli powder, turmeric powder, cumin powder, coriander powder, and salt. Cook for 2-3 minutes. 7. Add chicken and cook until it is browned on all sides. 8. Add the soaked rice and water. Cook on low heat for 20-25 minutes. 9. Serve hot with raita and papad.",
@@ -47,7 +47,7 @@
       {
         "id": 6,
         "chefId": 2,
-        "recipeImg": "https://example.com/recipe1.jpg",
+        "recipeImg": "https://www.keepingthepeas.com/wp-content/uploads/2021/08/punjabi-chole-4-500x375.jpg",
         "recipeName": "Chana Masala",
         "ingredients": ["1 can of chickpeas", "1 onion, chopped", "1 tomato, chopped", "1 tsp ginger paste", "1 tsp garlic paste", "2 tsp cumin powder", "1 tsp coriander powder", "1 tsp garam masala", "1 tsp turmeric powder", "salt to taste"],
         "cookingMethod": "1. Heat oil in a pan and sauté the onions until golden brown. 2. Add ginger and garlic paste and cook for 1 minute. 3. Add tomato, cumin powder, coriander powder, turmeric powder, and salt. Cook for 2-3 minutes. 4. Add chickpeas and cook for another 5-7 minutes. 5. Add garam masala and cook for another minute. 6. Serve hot with rice or naan.",
@@ -56,7 +56,7 @@
       {
         "id": 7,
         "chefId": 2,
-        "recipeImg": "https://example.com/recipe2.jpg",
+        "recipeImg": "https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8UGFsYWslMjBQYW5lZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
         "recipeName": "Palak Paneer",
         "ingredients": ["200g paneer", "1 bunch of spinach, chopped", "1 onion, chopped", "1 tomato, chopped", "1 tsp ginger paste", "1 tsp garlic paste", "2 tsp cumin powder", "1 tsp coriander powder", "1 tsp garam masala", "1 tsp turmeric powder", "salt to taste"],
         "cookingMethod": "1. Blanch the spinach in boiling water for 2-3 minutes. 2. Drain and puree the spinach in a blender. 3. Heat oil in a pan and sauté the onions until golden brown. 4. Add ginger and garlic paste and cook for 1 minute. 5. Add tomato, cumin powder, coriander powder, turmeric powder, and salt. Cook for 2-3 minutes. 6. Add paneer and cook for 3-4 minutes. 7. Add spinach puree and cook for another 5-7 minutes. 8. Add garam masala and cook for another minute. 9. Serve hot with rice or naan.",
@@ -65,7 +65,7 @@
       {
         "id": 8,
         "chefId": 2,
-        "recipeImg": "https://example.com/masala_dosa.jpg",
+        "recipeImg": "https://www.palatesdesire.com/wp-content/uploads/2022/09/Mysore-masala-dosa-recipe@palates-desire.jpg",
         "recipeName": "Masala Dosa",
         "ingredients": ["1 cup rice", "1/2 cup urad dal", "1/2 tsp fenugreek seeds", "1/2 cup boiled potatoes", "1 onion, chopped", "2 green chillies, chopped", "1/2 tsp mustard seeds", "1/2 tsp cumin seeds", "A pinch of asafoetida", "Salt to taste", "Oil for cooking"],
         "cookingMethod": "1. Soak the rice, urad dal and fenugreek seeds separately for 5-6 hours.  2. Grind the soaked ingredients into a fine batter and let it ferment overnight.  3. In a separate pan, saute the chopped onions, green chillies, mustard seeds, cumin seeds, and asafoetida in oil.  4. Add boiled potatoes to the mixture and cook for 5-10 minutes.  5. Heat a non-stick pan and pour a ladle full of the batter onto it. Spread it in a circular motion to make a thin dosa.  6. Add the potato mixture to one side of the dosa and fold it over.  7. Serve hot with coconut chutney and sambar.",
@@ -74,7 +74,7 @@
       {
         "id": 9,
         "chefId": 2,
-        "recipeImg": "https://example.com/paneer_butter_masala.jpg",
+        "recipeImg": "https://www.cookwithmanali.com/wp-content/uploads/2019/05/Paneer-Butter-Masala.jpg",
         "recipeName": "Paneer Butter Masala",
         "ingredients": ["200g paneer", "2 tomatoes, chopped", "1 onion, chopped", "1 tbsp ginger paste", "1 tbsp garlic paste", "1 tsp cumin seeds", "1 tsp red chilli powder", "1 tsp coriander powder", "1/2 tsp garam masala", "2 tbsp butter", "Salt to taste", "Water as required"],
         "cookingMethod": "1. In a pan, heat 1 tbsp butter and add cumin seeds.  2. Add chopped onions and saute until they turn golden brown.  3. Add ginger paste, garlic paste and chopped tomatoes. Cook until the tomatoes are soft.  4. Add red chilli powder, coriander powder, garam masala and salt. Mix well and cook for a minute.  5. Blend the mixture in a blender to make a smooth paste.  6. In the same pan, heat the remaining butter and add the blended mixture.  7. Add water to get the desired consistency.  8. Add the paneer cubes and cook for 5-10 minutes.  9. Garnish with fresh cream and serve hot with naan or rice.",
@@ -83,7 +83,7 @@
       {
         "id": 10,
         "chefId": 2,
-        "recipeImg": "https://example.com/chicken_tikka_masala.jpg",
+        "recipeImg": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/3/0/FNK_the-best-chicken-tikka-masala_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1567523604572.jpeg",
         "recipeName": "Chicken Tikka Masala",
         "ingredients": ["500g boneless chicken, cut into cubes", "1 cup yogurt", "2 tbsp ginger paste", "2 tbsp garlic paste", "1 tsp cumin powder", "1 tsp coriander powder", "1 tsp turmeric powder", "1 tsp garam masala", "1 tsp red chilli powder", "2 tbsp butter", "Salt to taste"],
         "cookingMethod": "1. Marinate the chicken cubes in yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, garam masala, red chilli powder, and salt. Refrigerate for 2-3 hours.  2. Preheat the oven to 180°C.  3. Skewer the marinated chicken cubes and place them on a baking tray.  4. Bake for 15-20 minutes, until the chicken is cooked through.  5. In a pan, heat the butter and add the baked chicken cubes. Cook for 5-10 minutes, until the chicken is coated with the masala.  6. Serve hot with naan or rice.",
@@ -92,7 +92,7 @@
       {
         "id": 11,
         "chefId": 3,
-        "recipeImg": "https://example.com/paneer_tikka_pizza.jpg",
+        "recipeImg": "https://carameltintedlife.com/wp-content/uploads/2021/09/paneer-pizza-recipe-1-2.jpg",
         "recipeName": "Paneer Tikka Pizza",
         "ingredients": ["1 pizza base", "1/2 cup tomato sauce", "1 cup mozzarella cheese, grated", "1/2 cup paneer cubes", "1/2 cup bell peppers, chopped", "1 onion, chopped", "1 tsp ginger paste", "1 tsp garlic paste", "1 tsp red chilli powder", "1 tsp cumin powder", "1 tsp coriander powder", "1 tsp garam masala", "Salt to taste", "Oil for cooking"],
         "cookingMethod": "1. In a pan, heat oil and add ginger paste and garlic paste.  2. Add chopped onions and cook until translucent.  3. Add chopped bell peppers and cook for 2-3 minutes.  4. Add paneer cubes, red chilli powder, cumin powder, coriander powder, garam masala, and salt. Mix well and cook for 5-7 minutes.  5. Preheat the oven to 200°C.  6. Spread tomato sauce on the pizza base.  7. Add the paneer tikka mixture on top of the sauce.  8. Sprinkle grated mozzarella cheese on top.  9. Bake the pizza for 10-12 minutes or until the cheese melts and the crust is golden brown.  10. Serve hot with your favorite toppings.",
@@ -101,7 +101,7 @@
       {
         "id": 12,
         "chefId": 3,
-        "recipeImg": "https://example.com/palak_paneer_paratha.jpg",
+        "recipeImg": "https://www.indianveggiedelight.com/wp-content/uploads/2019/09/palak_paneer_paratha-2.jpg",
         "recipeName": "Palak Paneer Paratha",
         "ingredients": ["2 cups whole wheat flour", "1 cup spinach, blanched and pureed", "1/2 cup paneer, grated", "1/4 tsp cumin powder", "1/4 tsp coriander powder", "1/4 tsp garam masala", "Salt to taste", "Oil for cooking"],
         "cookingMethod": "1. In a mixing bowl, combine the whole wheat flour, blanched spinach puree, grated paneer, cumin powder, coriander powder, garam masala, and salt. Knead into a smooth dough.  2. Divide the dough into equal-sized portions.  3. Roll each portion into a ball and flatten it with your palms.  4. Dust the flattened ball with some flour and roll it into a paratha.  5. Heat a tawa or griddle over medium heat.  6. Place the rolled paratha on the tawa and cook for 1-2 minutes on each side.  7. Add some oil on both sides and cook until golden brown.  8. Serve hot with raita or chutney of your choice.",
@@ -110,7 +110,7 @@
       {
         "id": 13,
         "chefId": 3,
-        "recipeImg": "https://www.example.com/images/paneer-tikka-masala-pizza.jpg",
+        "recipeImg": "https://j6e2i8c9.rocketcdn.me/wp-content/uploads/2020/09/Paneer-tikka-pizza-recipe-1.jpg",
         "recipeName": "Paneer Tikka Masala Pizza",
         "ingredients": [
           "1 pizza crust",
@@ -146,7 +146,7 @@
           "2 flour tortillas"
         ],
         "cookingMethod": "1. Heat a tablespoon of oil in a pan and add mustard seeds and cumin seeds. 2. Once the seeds start spluttering, add chopped onions and sauté till they turn translucent. 3. Add turmeric powder, red chili powder, and salt to taste. Mix well. 4. Add the dosa batter to the pan and spread it evenly. 5. Sprinkle shredded cheese on top and cover with a tortilla. 6. Cook until the cheese melts and the tortilla turns golden brown. 7. Flip the quesadilla and cook on the other side until crispy. 8. Serve hot with your favorite dipping sauce.",
-        "recipeImg": "https://example.com/masala-dosa-quesadilla.jpg",
+        "recipeImg": "https://sangskitchen.b-cdn.net/wp-content/uploads/2021/03/Quesadilla.jpg",
         "rating": 4.5
       },
       {
@@ -166,13 +166,13 @@
           "1 cup water"
         ],
         "cookingMethod": "1. Heat coconut oil in a pan and add chopped onions and green chilies. Sauté till the onions turn translucent. 2. Add chopped tomatoes and cook until they turn mushy. 3. Add turmeric powder, red chili powder, and salt to taste. Mix well. 4. Add grated coconut and cook for a minute. 5. Add water and bring to a boil. 6. Add the fish and simmer for 10-15 minutes or until the fish is cooked through. 7. Serve hot with steamed rice.",
-        "recipeImg": "https://example.com/kerala-fish-curry.jpg",
+        "recipeImg": "https://mycookingcanvas.com/wp-content/uploads/2018/06/DSC_4263.jpg",
         "rating": 4.8
       },
       {
         "id": 16,
         "chefId": 4,
-        "recipeImg": "https://example.com/recipe-img/14.jpg",
+        "recipeImg": "https://www.feastingathome.com/wp-content/uploads/2019/03/Szechuan-Tofu-and-Veggies-105.jpg",
         "recipeName": "Spicy Szechuan Tofu",
         "ingredients": [
             "1 package firm tofu, drained and pressed",
@@ -198,7 +198,7 @@
      {
         "id": 17,
         "chefId": 4,
-        "recipeImg": "https://example.com/recipe_img",
+        "recipeImg": "https://cleanfoodcrush.com/wp-content/uploads/2019/05/CFC-Spicy-Chicken-Broccoli-Stir-Fry-.jpg",
         "recipeName": "Spicy Chicken and Broccoli Stir-Fry",
         "ingredients": [
           "1 lb boneless, skinless chicken breasts, sliced",
@@ -220,7 +220,7 @@
       {
         "id": 18,
         "chefId": 4,
-        "recipeImg": "https://example.com/recipe_img",
+        "recipeImg": "https://healthyfitnessmeals.com/wp-content/uploads/2021/09/Garlic-shrimp-pasta-7.jpg",
         "recipeName": "Garlic Shrimp Pasta",
         "ingredients": [
           "1 lb spaghetti",
@@ -239,7 +239,7 @@
       {
         "id": 19,
         "chefId": 4,
-        "recipeImg": "https://example.com/recipe_img",
+        "recipeImg": "https://cdn.diys.com/wp-content/uploads/2016/01/Spicy-chicken-stir-fry-finished-wide4-720x720.jpg",
         "recipeName": "Spicy Chicken Stir-Fry",
         "ingredients": [
           "1 lb boneless, skinless chicken breast, sliced",
@@ -261,7 +261,7 @@
       {
         "id": 20,
         "chefId": 4,
-        "recipeImg": "https://example.com/recipe-img",
+        "recipeImg": "https://healthyfitnessmeals.com/wp-content/uploads/2022/01/Miso-Glazed-Salmon-4.jpg",
         "recipeName": "Miso Glazed Salmon",
         "ingredients": [
           "4 salmon fillets",
@@ -279,7 +279,7 @@
       {
         "id": 21,
         "chefId": 5,
-        "recipeImg": "https://example.com/recipe-img",
+        "recipeImg": "https://hips.hearstapps.com/hmg-prod/images/delish-chicken-tikka-masala-jpg-1526059261.jpg?crop=0.8890666666666666xw:1xh;center,top&resize=1200:*",
         "recipeName": "Chicken Tikka Masala",
         "ingredients": [
           "1 lb boneless, skinless chicken breasts, cut into bite-sized pieces",
@@ -306,7 +306,7 @@
       {
         "id": 22,
         "chefId": 5,
-        "recipeImg": "https://example.com/chana-masala-stuffed-naan.jpg",
+        "recipeImg": "https://zestfulkitchen.com/wp-content/uploads/2018/10/quick-chana-masala-cover-1-of-1-scaled.jpg",
         "recipeName": "Chana Masala Stuffed Naan",
         "ingredients": [
           "For Naan: all-purpose flour, baking powder, salt, sugar, milk, yogurt, oil",
@@ -318,7 +318,7 @@
       {
         "id": 23,
         "chefId": 5,
-        "recipeImg": "https://example.com/matar-paneer-kulcha.jpg",
+        "recipeImg": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Farrukh_Aziz_Ansari/Matar_Paneer_Kulcha.jpg",
         "recipeName": "Matar Paneer Kulcha",
         "ingredients": [
           "For Kulcha: all-purpose flour, baking powder, salt, sugar, milk, yogurt, oil",
@@ -330,7 +330,7 @@
       {
         "id": 24,
         "chefId": 5,
-        "recipeImg": "https://example.com/tandoori-chicken-naan-pizza.jpg",
+        "recipeImg": "https://img.taste.com.au/gstVHIGD/taste/2016/11/tandoori-naan-pizzas-103985-1.jpeg",
         "recipeName": "Tandoori Chicken Naan Pizza",
         "ingredients": [
            "2 naan breads",
@@ -351,7 +351,7 @@
      {
         "id": 25,
         "chefId": 5,
-        "recipeImg": "https://example.com/paneer-makhani.jpg",
+        "recipeImg": "https://ministryofcurry.com/wp-content/uploads/2020/07/paneer-butter-masala_-2.jpg",
         "recipeName": "Paneer Makhani",
         "ingredients": [
            "250 grams paneer",
@@ -381,7 +381,7 @@
      {
         "id":26,
         "chefId": 6,
-        "recipeImg": "https://www.example.com/recipe6-img.jpg",
+        "recipeImg": "https://www.cookwithmanali.com/wp-content/uploads/2020/04/Punjabi-Kadhi-Pakora.jpg",
         "recipeName": "Punjabi Kadhi Pakoda",
         "ingredients": [
           "1 cup besan (gram flour)",
@@ -416,7 +416,7 @@
       {
         "id":27,
         "chefId": 6,
-        "recipeImg": "https://example.com/images/matar-paneer.jpg",
+        "recipeImg": "https://static.toiimg.com/photo/53251884.cms",
         "recipeName": "Matar Paneer",
         "ingredients": [
           "1 cup paneer, cubed",
@@ -450,13 +450,13 @@
         ],
         "cookingMethod": "1. In a mixing bowl, combine the yogurt, lemon juice, ginger-garlic paste, red chili powder, and cumin powder. Mix well. 2. Add the chicken cubes to the bowl and coat them evenly with the marinade. 3. Cover the bowl and refrigerate for at least 2 hours, or overnight. 4. Preheat the oven to 400°F (200°C). 5. Thread the chicken cubes onto skewers and place them on a baking sheet. 6. Bake the chicken in the oven for 15-20 minutes, or until cooked through. 7. Meanwhile, heat a large skillet over medium-high heat. Add the remaining marinade to the skillet and cook for 5-7 minutes, or until it thickens into a sauce. 8. Add the cooked chicken to the skillet and toss to coat it in the sauce. 9. Serve hot with rice or naan bread.",
         "rating": 4.5,
-        "recipeImg": "https://example.com/tandoori-chicken-tikka-masala.jpg"
+        "recipeImg": "https://www.foodandwine.com/thmb/ErNZTmhSUt3HiOwy4JujFiQM9co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chicken-Tikka-Kebabs-FT-RECIPE0622-3c77b6c2efa04e1c946b320c6db30a91.jpg"
       },
       {
         "id":29,
         "chefId": 6,
         "recipeName": "Paneer Jalfrezi",
-        "recipeImg": "https://www.example.com/paneer-jalfrezi.jpg",
+        "recipeImg": "https://i0.wp.com/foodtrails25.com/wp-content/uploads/2021/06/Jalfrezi-Paneer.jpg?resize=720%2C960&ssl=1",
         "ingredients": [
           "200g paneer, cubed",
           "1 large onion, sliced",
@@ -487,7 +487,7 @@
       {
         "id":30,
         "chefId": 6,
-        "recipeImg": "https://example.com/recipe-img",
+        "recipeImg": "https://cookilicious.com/wp-content/uploads/2021/09/Mushroom-Masala-1.jpg",
         "recipeName": "Mushroom Masala",
         "ingredients": [
             "1 pound mushrooms, sliced",
