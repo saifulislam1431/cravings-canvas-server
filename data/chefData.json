@@ -2,7 +2,7 @@
 
     {
         "id": 1,
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/article_images/2019/09/10/file76xz1iyv8pgqtohi7z7-1568057401.jpg?itok=Q8ZOmEMz",
         "chefName": "Sanjeev Kapoor",
         "yearsOfExperience": 20,
         "numberOfRecipes": 500,
@@ -11,7 +11,7 @@
       },
       {
         "id": 2,
-        "chefPicture": "https://example.com/chef2.jpg",
+        "chefPicture": "https://yt3.googleusercontent.com/ytc/AGIKgqPmebXxZ0oezruh5kDI3iDR8o2PQKAYOff5lFTdabI=s900-c-k-c0x00ffffff-no-rj",
         "chefName": "Tarla Dalal",
         "yearsOfExperience": 30,
         "numberOfRecipes": 1000,
@@ -20,7 +20,7 @@
       },
       {
         "id": 3,
-        "chefPicture": "https://example.com/chef3.jpg",
+        "chefPicture": "https://im.rediff.com/getahead/2017/sep/06chefvikaskhanna.jpg",
         "chefName": "Vikas Khanna",
         "yearsOfExperience": 15,
         "numberOfRecipes": 200,
@@ -29,7 +29,7 @@
       },
       {
         "id": 4,
-        "chefPicture": "https://example.com/chef4.jpg",
+        "chefPicture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Madhur-Jaffrey-20101024-IMG_7271.jpg/1200px-Madhur-Jaffrey-20101024-IMG_7271.jpg",
         "chefName": "Madhur Jaffrey",
         "yearsOfExperience": 40,
         "numberOfRecipes": 800,
@@ -38,7 +38,7 @@
       },
       {
         "id": 5,
-        "chefPicture": "https://example.com/chef5.jpg",
+        "chefPicture": "https://www.thecriticsguide.com/uploads/atul.jpg",
         "chefName": "Atul Kochhar",
         "yearsOfExperience": 25,
         "numberOfRecipes": 300,
@@ -47,7 +47,7 @@
       },
       {
         "id": 6,
-        "chefPicture": "https://example.com/chef6.jpg",
+        "chefPicture": "https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1652597275542.jpg-org",
         "chefName": "Ranveer Brar",
         "yearsOfExperience": 10,
         "numberOfRecipes": 150,
