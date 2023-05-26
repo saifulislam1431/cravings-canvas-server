@@ -8,7 +8,7 @@ const allRecipe = require("./data/allRecipe.json");
 app.use(cors());
 
 app.get("/",(req,res)=>{
-    res.send("Cravings & Canvas server")
+    res.send("Cravings & Canvas server");
 })
 
 app.get("/all-chef",(req,res)=>{
